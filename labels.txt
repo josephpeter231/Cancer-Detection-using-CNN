@@ -1,0 +1,12 @@
+0 Spleen Cancer
+1 Vaginal Cancer
+2 Colon Cancer
+3 Brain Tumour
+4 Pancreatic Cancer
+5 Breast Cancer(Initial Stage)
+6 Breast Cancer(Metasis Stage)
+7 Stomach Cancer(Metasis)
+8 Stomach Cancer(Tumour) 
+9 Liver Cancer
+10 Blood Cancer
+11 Lung Cancer
